@@ -19,5 +19,6 @@ Atuei como tutor em um curso de extensão na rede estadual de ensino fundamental
 ## Bolsista: Desenvolvedor Fullstack
 **SIGEX - FAPES - TJES**  
 *Período: Fevereiro/2023 - Fevereiro/2024*
+
 [Clique aqui para consultar o certificado](https://github.com/joaogabrielbz/Experiencias/blob/main/Bolsista%20-%20desenvolvedor%20TJES/Declaracao.pdf)
 Atuei no desenvolvimento da aplicação do Tribunal de Justiça do Espírito Santo, por meio da FAPES, onde nossa equipe utilizou Angular para o frontend e Java Spring na estrutura de microsserviços para o backend, além de outras ferramentas para facilitar o desenvolvimento remoto em equipe, como Git e Docker.
