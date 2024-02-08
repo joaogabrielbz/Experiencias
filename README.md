@@ -6,7 +6,7 @@ Olá! Bem-vindo ao meu repositório de experiências profissionais. Aqui está u
 **FAPES**  
 *Período: Abril/2022 - Dezembro/2022*
 
-[Certificado](Bolsista - Monitoramento de sinais vitais com microcontroladores/Certificado.pdf)
+[Certificado](Bolsista - desenvolvedor de microcontroladores/Certificado.pdf)
 
 Desenvolvi um dispositivo que monitora sinais vitais utilizando C e Python em microcontroladores. O dispositivo utiliza ESP32, sensores e atuadores para coletar dados como oxigenação sanguínea, frequência cardíaca, temperatura, além de rastrear a localização e velocidade do usuário em tempo real. Após a atividade física, o dispositivo gera um relatório detalhado com gráficos e tabelas em PDF, exportável via Bluetooth.
 
